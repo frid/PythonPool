@@ -1,6 +1,6 @@
 from datetime import date
 from datetime import timedelta
-fr  
+
 
 def checkio(from_date, to_date):
     """
